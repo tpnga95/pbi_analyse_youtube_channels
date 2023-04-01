@@ -18,6 +18,7 @@ To answer my question, I focus on analysing three main aspects:
     * Who has the most engaging content? 
 Among these 6 youtubers, Ali Abdaal dominates both in terms of the number of subscribers and the total number of views, 
 while Better Ideas has the most attractive content that gain the highest average views per video. 
+
 To further understand two youtube channels. I dig deeper into their videos's duration, title, and words on the titles. 
 Better Ideas is consistent in generating videos with a length in the range of 8-10 minutes and has titles with 30-40 words. 
 When comparing the most frequent words used in Ali and Better Ideas' channels, Ali covers a wide variety of topics, while Better Ideas has a narrower focus. 
