@@ -1,7 +1,7 @@
 My project is inspired by Ms.Thu Vu's project about crawling data from YouTube API: https://www.youtube.com/watch?v=D56_Cx36oGY&t=1081s.
 I analyze the top 6 youtube channels that create content about my favorite topic - productivity:
+
     * Ali Abdaal
-    
     * Mat D'Avella
     * Better Ideas
     * Nathaniel Drew
@@ -11,6 +11,7 @@ After using Python to get data from YouTube API, I start visualizing the data in
       Who is the most productive productivity-YouTubers? 
 
 To answer my question, I focus on analysing three main aspects:
+
     * Who attract the most views?
     * Who is the most disciplined?
     * Who has the most engaging content? 
