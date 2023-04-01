@@ -9,7 +9,7 @@ I analyze the top 6 youtube channels that create content about my favorite topic
     * Kharma Medic
     * Mariana Vieira
 After using Python to get data from YouTube API, I start visualizing the data in PowerBI to answer my curiousity: 
-      Who is the most productive productivity-YouTubers? 
+Who is the most productive productivity-YouTubers? 
 
 To answer my question, I focus on analysing three main aspects:
 
@@ -22,4 +22,6 @@ while Better Ideas has the most attractive content that gain the highest average
 To further understand two youtube channels. I dig deeper into their videos's duration, title, and words on the titles. 
 Better Ideas is consistent in generating videos with a length in the range of 8-10 minutes and has titles with 30-40 words. 
 When comparing the most frequent words used in Ali and Better Ideas' channels, Ali covers a wide variety of topics, while Better Ideas has a narrower focus. 
-It is reasonable that the word "How" appears most in both channels, as they tend to create videos about explaining or giving guidance related to enhancing productivity
+It is reasonable that the word "How" appears most in both channels, as they tend to create videos about explaining or giving guidance related to enhancing productivity. 
+
+My report is available as a PDF attachment. Please refer to the attachment for more details. 
